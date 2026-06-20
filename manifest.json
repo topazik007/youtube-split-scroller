@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube Split Scroller",
+  "version": "1.0",
+  "description": "Allows you to scroll through a list of recommended videos on the right, independent of the main content.",
+  "content_scripts": [
+    {
+      "matches": ["*://www.youtube.com/watch*"],
+      "css": ["style.css"],
+      "run_at": "document_start"
+    }
+  ]
+}
