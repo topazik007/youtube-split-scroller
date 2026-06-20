@@ -8,7 +8,7 @@ Installation
 ------------
 
 1. Download the repository:
-[![Download Extension](https://img.shields.io/badge/Download-ZIP-success?style=for-the-badge&logo=googlechrome)](https://github.com/topazik007/youtube-split-scroller.git/archive/refs/tags/v1.0.zip)
+[![Download Extension](https://img.shields.io/badge/Download-ZIP-success?style=for-the-badge&logo=googlechrome)](https://github.com/topazik007/youtube-split-scroller/archive/refs/tags/1.0.zip)
    
 2. Open Chrome and go to chrome://extensions/
 3. Enable Developer mode (toggle in the top right corner)
