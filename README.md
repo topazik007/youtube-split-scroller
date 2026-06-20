@@ -7,7 +7,9 @@ A Chrome browser extension that separates the scroll of the main content
 Installation
 ------------
 
-1. Download the repository (Code -> Download ZIP) and extract it
+1. Download the repository:
+[![Download Extension](https://img.shields.io/badge/Download-ZIP-success?style=for-the-badge&logo=googlechrome)](https://github.com/topazik007/youtube-split-scroller.git)
+   
 2. Open Chrome and go to chrome://extensions/
 3. Enable Developer mode (toggle in the top right corner)
 4. Click Load unpacked and select the extension folder
